@@ -26,7 +26,7 @@ public class test3 {
             year += 4;
         }
 
-        for (int new_year=1980; new_year<=2020; new_year+=4){
+        for (int new_year = 1980; new_year <= 2020; new_year += 4) {
             System.out.println("Олимпиада " + new_year + " года");
         }
 

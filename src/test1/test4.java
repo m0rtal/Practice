@@ -12,8 +12,8 @@ package test1;
 public class test4 {
     public static void main(String[] args) {
         int k = 7;
-        for (int n = 1; n<10; n++){
-            System.out.println(n + " x " + k + " = " + n*k);
+        for (int n = 1; n < 10; n++) {
+            System.out.println(n + " x " + k + " = " + n * k);
         }
 
     }
